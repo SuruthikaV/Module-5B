@@ -53,7 +53,6 @@ print(result_data)
 
 <img width="694" height="855" alt="image" src="https://github.com/user-attachments/assets/148f9f1e-3062-40d2-80ab-da831aa7692d" />
 
-<img width="694" height="855" alt="image" src="https://github.com/user-attachments/assets/5e134b85-9e5a-4143-b98d-0e442ff63c5d" />
 
 
 ## Result
